@@ -1,0 +1,2 @@
+# doumentation
+docs for tech
